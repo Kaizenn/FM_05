@@ -8,7 +8,7 @@ export default function RecipeIllustration() {
       <img
         src={imageMobile}
         alt="Product image"
-        className="h-full rounded-t-lg md:rounded-none md:rounded-l-lg"
+        className="h-full rounded-t-lg object-cover md:rounded-none md:rounded-l-lg"
       />
     </picture>
   )
