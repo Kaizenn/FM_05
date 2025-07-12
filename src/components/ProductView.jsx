@@ -13,7 +13,7 @@ const containerVariants = {
   visible: {
     transition: {
       delayChildren: 0.02,
-      staggerChildren: 0.05, // si tu veux que chaque élément à l'intérieur apparaisse en décalé
+      staggerChildren: 0.05,
     },
   },
 }
